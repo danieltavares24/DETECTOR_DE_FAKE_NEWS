@@ -22,6 +22,6 @@ Uma investigação sobre os casos em que o modelo cometeu erros e possíveis ins
 # 6. Conclusão:
 Um resumo dos resultados e aprendizados do projeto.
 
-***************************************************
-Projeto desenvolvido por Daniel Tavares de França
+***************************************
+Projeto desenvolvido por Daniel Tavares 
 
